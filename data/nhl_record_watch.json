@@ -1,0 +1,15 @@
+{
+  "watch": [
+    {"player_id": 8471214, "stat": "goals", "target": 950, "alert_at": 3, "note": "Овечкин, снайпер №1 в истории"},
+    {"player_id": 8471214, "stat": "points", "target": 1700, "alert_at": 3, "note": ""},
+    {"player_id": 8471215, "stat": "points", "target": 1500, "alert_at": 3, "note": ""},
+    {"player_id": 8476883, "stat": "wins", "target": 400, "alert_at": 3, "note": "пример Василевского с созвона"},
+    {"player_id": 8475683, "stat": "wins", "target": 500, "alert_at": 3, "note": ""},
+    {"player_id": 8476453, "stat": "games played", "target": 900, "alert_at": 3, "note": ""},
+    {"player_id": 8476453, "stat": "points", "target": 1200, "alert_at": 3, "note": ""},
+    {"player_id": 8478550, "stat": "points", "target": 1000, "alert_at": 5, "note": "Панарин, 1000 очков"},
+    {"player_id": 8478864, "stat": "goals", "target": 250, "alert_at": 3, "note": ""},
+    {"player_id": 8480830, "stat": "goals", "target": 200, "alert_at": 3, "note": ""},
+    {"player_id": 8481611, "stat": "wins", "target": 100, "alert_at": 3, "note": ""}
+  ]
+}

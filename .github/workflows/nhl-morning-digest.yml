@@ -1,0 +1,73 @@
+name: NHL Morning Digest
+
+# No GitHub `schedule:` here: in this repository scheduled runs start hours late,
+# so the morning start comes from the small Worker in cloudflare-digest-cron/.
+on:
+  workflow_dispatch:
+    inputs:
+      send:
+        description: Send to Telegram (off prints the digest in the log only)
+        type: boolean
+        default: false
+      date:
+        description: Morning to simulate, YYYY-MM-DD. Leave empty for today
+        required: false
+  repository_dispatch:
+    types: [nhl_morning_digest]
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: nhl-morning-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      NHL_DIGEST_CHAT_ID: ${{ secrets.NHL_DIGEST_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Skip if switched off or already sent today
+        if: github.event_name == 'repository_dispatch'
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DIGEST_ENABLED: ${{ vars.NHL_DIGEST_ENABLED }}
+        run: |
+          count=$(gh run list --workflow nhl-morning-digest.yml --event repository_dispatch --status success \
+            --created "$(TZ=Europe/Moscow date +%F)" --json databaseId --jq length)
+          if [ "$DIGEST_ENABLED" = "1" ] && [ "$count" = "0" ]; then
+            echo "run=1" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Morning digest
+        if: steps.gate.outputs.run == '1'
+        run: python tools/nhl_morning_digest.py --send
+      - name: Manual digest
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          DIGEST_DATE: ${{ inputs.date }}
+          DIGEST_SEND: ${{ inputs.send }}
+        run: |
+          args=()
+          if [ -n "$DIGEST_DATE" ]; then args+=(--date "$DIGEST_DATE"); fi
+          if [ "$DIGEST_SEND" = "true" ]; then args+=(--send); fi
+          python tools/nhl_morning_digest.py "${args[@]}"
+      - name: Report failure
+        if: failure()
+        env:
+          ERROR_CHAT_ID: ${{ secrets.NHL_DIGEST_ERROR_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -n "$ERROR_CHAT_ID" ]; then
+            curl -sS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              --data-urlencode "chat_id=${ERROR_CHAT_ID}" \
+              --data-urlencode "text=Утренняя сводка НХЛ не собралась: ${RUN_URL}" > /dev/null
+          fi
