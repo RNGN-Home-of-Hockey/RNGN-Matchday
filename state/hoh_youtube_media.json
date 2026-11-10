@@ -1,12 +1,12 @@
 {
   "channel": "@homeofhockey-yt",
   "news": {
-    "id": "tIRITJWLzmY",
+    "id": "AwpUbRTufRM",
     "kind": "news",
-    "url": "https://www.youtube.com/watch?v=tIRITJWLzmY",
-    "title": "СПАСЕНИЕ И ПРОИГРЫШ ЗА МГНОВЕНИЕ ДО КОНЦА | БИТВА В БОСТОНЕ – HOME OF HOCKEY NEWS",
-    "thumb": "https://i.ytimg.com/vi/tIRITJWLzmY/hq720.jpg",
-    "view_count": 569
+    "url": "https://www.youtube.com/watch?v=AwpUbRTufRM",
+    "title": "МАКДЭВИД И ДРАЙЗАЙТЛЬ ОБЫГРАЛИ РЕЙНДЖЕРС | ЖДЕМ МИРОШНИЧЕНКО В СИЭТЛЕ? – HOME OF HOCKEY NEWS",
+    "thumb": "https://i.ytimg.com/vi/AwpUbRTufRM/hq720.jpg",
+    "view_count": 263
   },
   "shorts_top10": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.youtube.com/shorts/a37RZwDBRlw",
       "title": "🤣 Кто-нибудь понял, зачем Кирилл Капризов принял участие в этом...? #shorts",
       "thumb": "https://i.ytimg.com/vi/a37RZwDBRlw/hq720.jpg",
-      "view_count": 26
+      "view_count": 29
     },
     {
       "id": "TElR8mgSTxs",
@@ -23,7 +23,7 @@
       "url": "https://www.youtube.com/shorts/TElR8mgSTxs",
       "title": "😁 Леон Драйзайтль собрал идеального хоккеиста — и вспомнил Коннора Макдэвида! #shorts",
       "thumb": "https://i.ytimg.com/vi/TElR8mgSTxs/hq720.jpg",
-      "view_count": 18
+      "view_count": 20
     },
     {
       "id": "pVG253-FPeY",
@@ -90,5 +90,5 @@
       "view_count": 25
     }
   ],
-  "updated_at": "2026-11-09T15:19:13.698528+00:00"
+  "updated_at": "2026-11-10T13:04:05.751989+00:00"
 }
