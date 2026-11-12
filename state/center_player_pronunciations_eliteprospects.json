@@ -1,8 +1,8 @@
 {
   "audio_storage": "/player-audio/<nhl_player_id>.mp3",
-  "eliteprospects_audio_matched": 553,
-  "eliteprospects_profiles_resolved": 767,
-  "matched": 564,
+  "eliteprospects_audio_matched": 554,
+  "eliteprospects_profiles_resolved": 768,
+  "matched": 565,
   "nhl_audio_fallback_matched": 11,
   "players": {
     "8470613": {
@@ -10078,6 +10078,29 @@
       "team_tri": "WPG",
       "upstream_verified": true,
       "weight_kg": 84
+    },
+    "8482153": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8482153.mp3",
+      "birth_country": "USA",
+      "birth_date": "2001-10-22",
+      "eliteprospects_id": "299642",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Brendan%20Brisson",
+      "eliteprospects_slug": "brendan-brisson",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/299642/brendan-brisson",
+      "first_name": "Brendan",
+      "full_name_en": "Brendan Brisson",
+      "height_cm": 183,
+      "last_name": "Brisson",
+      "player_id": 8482153,
+      "position_code": "C",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/brendan_brisson.mp3",
+      "shoots_catches": "L",
+      "sweater_number": 90,
+      "team_tri": "TOR",
+      "upstream_verified": true,
+      "weight_kg": 85
     },
     "8482157": {
       "audio_cached": true,
@@ -25846,6 +25869,29 @@
       "upstream_verified": true,
       "weight_kg": 84
     },
+    "8482153": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8482153.mp3",
+      "birth_country": "USA",
+      "birth_date": "2001-10-22",
+      "eliteprospects_id": "299642",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Brendan%20Brisson",
+      "eliteprospects_slug": "brendan-brisson",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/299642/brendan-brisson",
+      "first_name": "Brendan",
+      "full_name_en": "Brendan Brisson",
+      "height_cm": 183,
+      "last_name": "Brisson",
+      "player_id": 8482153,
+      "position_code": "C",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/brendan_brisson.mp3",
+      "shoots_catches": "L",
+      "sweater_number": 90,
+      "team_tri": "TOR",
+      "upstream_verified": true,
+      "weight_kg": 85
+    },
     "8482155": {
       "audio_cached": false,
       "birth_country": "USA",
@@ -30761,7 +30807,7 @@
       "weight_kg": 92
     }
   },
-  "roster_players": 793,
+  "roster_players": 794,
   "source": "eliteprospects_player_audio_with_nhl_fallback",
   "source_pattern": "https://files.eliteprospects.com/layout/player_audio/<normalized_player_name>.mp3",
   "unresolved": [
