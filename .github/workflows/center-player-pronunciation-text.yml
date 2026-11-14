@@ -3,6 +3,7 @@ name: Refresh Center player pronunciation text
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'tools/build_center_player_pronunciation_text_from_nhl_pdf.py'
       - '.github/workflows/center-player-pronunciation-text.yml'
@@ -38,6 +39,7 @@ jobs:
               raise SystemExit(f'refusing weak NHL pronunciation text cache: {matched}')
           PY
       - name: Commit refreshed cache
+        if: github.ref == 'refs/heads/main'
         run: |
           if [ -z "$(git status --porcelain -- state/center_player_pronunciation_text_nhl.json)" ]; then
             echo "No pronunciation text changes"

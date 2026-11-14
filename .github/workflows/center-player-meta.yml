@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "17 5 * * *"
   push:
+    branches: [main]
     paths:
       - "tools/build_center_player_meta_from_sports_ru.py"
       - ".github/workflows/center-player-meta.yml"
@@ -56,6 +57,7 @@ jobs:
               raise SystemExit(f'refusing non-Cyrillic Russian names: {sample}')
           PY
       - name: Commit refreshed name cache
+        if: github.ref == 'refs/heads/main'
         run: |
           # The rich state payload contains a generated timestamp and is diagnostic only.
           # Commit only the deterministic name map so unrelated concurrent product commits

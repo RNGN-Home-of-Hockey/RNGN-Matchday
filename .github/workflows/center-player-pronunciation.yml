@@ -3,6 +3,7 @@ name: Refresh Center player pronunciations
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'tools/build_center_player_pronunciations_from_nhl.py'
       - '.github/workflows/center-player-pronunciation.yml'
@@ -42,6 +43,7 @@ jobs:
                   raise SystemExit('invalid pronunciation URL')
           PY
       - name: Commit refreshed pronunciation cache
+        if: github.ref == 'refs/heads/main'
         run: |
           if [ -z "$(git status --porcelain -- state/center_player_pronunciations_nhl.json)" ]; then
             echo "No pronunciation changes"

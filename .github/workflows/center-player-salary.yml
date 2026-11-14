@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "37 5 * * 3"
   push:
+    branches: [main]
     paths:
       - "tools/build_center_player_salary_from_puckpedia.py"
       - ".github/workflows/center-player-salary.yml"
@@ -46,6 +47,7 @@ jobs:
               raise SystemExit(f'refusing weak salary cache: {len(errors)} team fetch errors')
           PY
       - name: Commit refreshed salary cache
+        if: github.ref == 'refs/heads/main'
         run: |
           if git diff --quiet -- player_salary_2026_27.json; then
             echo "No salary changes"
