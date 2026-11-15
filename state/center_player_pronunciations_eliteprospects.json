@@ -1,9 +1,9 @@
 {
   "audio_storage": "/player-audio/<nhl_player_id>.mp3",
   "eliteprospects_audio_matched": 554,
-  "eliteprospects_profiles_resolved": 765,
-  "matched": 565,
-  "nhl_audio_fallback_matched": 11,
+  "eliteprospects_profiles_resolved": 767,
+  "matched": 566,
+  "nhl_audio_fallback_matched": 12,
   "players": {
     "8470613": {
       "audio_cached": true,
@@ -12447,6 +12447,29 @@
       "team_tri": "NYR",
       "upstream_verified": true,
       "weight_kg": 81
+    },
+    "8484220": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8484220.mp3",
+      "birth_country": "AUT",
+      "birth_date": "2004-10-25",
+      "eliteprospects_id": "703646",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=David%20Reinbacher",
+      "eliteprospects_slug": "david-reinbacher",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/703646/david-reinbacher",
+      "first_name": "David",
+      "full_name_en": "David Reinbacher",
+      "height_cm": 190,
+      "last_name": "Reinbacher",
+      "player_id": 8484220,
+      "position_code": "D",
+      "pronunciation_source": "local_cached_pronunciation",
+      "pronunciation_url": null,
+      "shoots_catches": "R",
+      "sweater_number": 64,
+      "team_tri": "MTL",
+      "upstream_verified": false,
+      "weight_kg": 94
     },
     "8484227": {
       "audio_cached": true,
@@ -29372,6 +29395,29 @@
       "upstream_verified": true,
       "weight_kg": 81
     },
+    "8484220": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8484220.mp3",
+      "birth_country": "AUT",
+      "birth_date": "2004-10-25",
+      "eliteprospects_id": "703646",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=David%20Reinbacher",
+      "eliteprospects_slug": "david-reinbacher",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/703646/david-reinbacher",
+      "first_name": "David",
+      "full_name_en": "David Reinbacher",
+      "height_cm": 190,
+      "last_name": "Reinbacher",
+      "player_id": 8484220,
+      "position_code": "D",
+      "pronunciation_source": "local_cached_pronunciation",
+      "pronunciation_url": null,
+      "shoots_catches": "R",
+      "sweater_number": 64,
+      "team_tri": "MTL",
+      "upstream_verified": false,
+      "weight_kg": 94
+    },
     "8484221": {
       "audio_cached": false,
       "birth_country": "CAN",
@@ -29547,6 +29593,27 @@
       "sweater_number": 34,
       "team_tri": "ANA",
       "weight_kg": 92
+    },
+    "8484268": {
+      "audio_cached": false,
+      "birth_country": "BLR",
+      "birth_date": "2000-04-06",
+      "eliteprospects_id": "382707",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Nikita%20Tolopilo",
+      "eliteprospects_slug": "nikita-tolopilo",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/382707/nikita-tolopilo",
+      "first_name": "Nikita",
+      "full_name_en": "Nikita Tolopilo",
+      "height_cm": 198,
+      "last_name": "Tolopilo",
+      "player_id": 8484268,
+      "position_code": "G",
+      "pronunciation_available": false,
+      "reason": "no_verified_audio",
+      "shoots_catches": "L",
+      "sweater_number": 60,
+      "team_tri": "VAN",
+      "weight_kg": 104
     },
     "8484287": {
       "audio_cached": false,
@@ -30765,7 +30832,7 @@
       "weight_kg": 92
     }
   },
-  "roster_players": 792,
+  "roster_players": 794,
   "source": "eliteprospects_player_audio_with_nhl_fallback",
   "source_pattern": "https://files.eliteprospects.com/layout/player_audio/<normalized_player_name>.mp3",
   "unresolved": [
@@ -34968,6 +35035,27 @@
       "sweater_number": 63,
       "team_tri": "VAN",
       "weight_kg": 82
+    },
+    {
+      "audio_cached": false,
+      "birth_country": "BLR",
+      "birth_date": "2000-04-06",
+      "eliteprospects_id": "382707",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Nikita%20Tolopilo",
+      "eliteprospects_slug": "nikita-tolopilo",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/382707/nikita-tolopilo",
+      "first_name": "Nikita",
+      "full_name_en": "Nikita Tolopilo",
+      "height_cm": 198,
+      "last_name": "Tolopilo",
+      "player_id": 8484268,
+      "position_code": "G",
+      "pronunciation_available": false,
+      "reason": "no_verified_audio",
+      "shoots_catches": "L",
+      "sweater_number": 60,
+      "team_tri": "VAN",
+      "weight_kg": 104
     },
     {
       "audio_cached": false,
