@@ -1,10 +1,10 @@
 {
   "match_methods": {
-    "exact": 748,
+    "exact": 750,
     "first_last_unique": 1,
     "unique_surname_alias": 18
   },
-  "matched": 767,
+  "matched": 769,
   "players": {
     "8470613": {
       "full_name_en": "Brent Burns",
@@ -546,6 +546,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "MIN"
     },
+    "8475718": {
+      "full_name_en": "Justin Holl",
+      "match_method": "exact",
+      "player_id": 8475718,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(HOHL, JUHS-tihn)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "WSH"
+    },
     "8475722": {
       "full_name_en": "Jason Zucker",
       "match_method": "exact",
@@ -572,15 +581,6 @@
       "pronunciation_text": "(KOYL, CHAHR-lee)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CBJ"
-    },
-    "8475752": {
-      "full_name_en": "Tyler Pitlick",
-      "match_method": "exact",
-      "player_id": 8475752,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(PIHT-lihk, TIGH-luhr)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "MIN"
     },
     "8475753": {
       "full_name_en": "Justin Faulk",
@@ -868,7 +868,7 @@
       "pronunciation_source": "official_nhl_2025_26_pdf",
       "pronunciation_text": "(RIGH-lee, MIGHK)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "CAR"
+      "team_tri": "COL"
     },
     "8476429": {
       "full_name_en": "Scott Mayfield",
@@ -1481,6 +1481,15 @@
       "pronunciation_text": "(SHMIHT, NAYT)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "UTA"
+    },
+    "8477335": {
+      "full_name_en": "Kyle Burroughs",
+      "match_method": "exact",
+      "player_id": 8477335,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(BUR-ohz, KIGHL)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "DAL"
     },
     "8477346": {
       "full_name_en": "MacKenzie Weegar",
@@ -2453,6 +2462,24 @@
       "pronunciation_text": "(BEH-suhr, BRAWK)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "VAN"
+    },
+    "8478445": {
+      "full_name_en": "Mathew Barzal",
+      "match_method": "exact",
+      "player_id": 8478445,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(bahr-ZAHL, MA-th’yew)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "NYI"
+    },
+    "8478446": {
+      "full_name_en": "Glenn Gawdin",
+      "match_method": "exact",
+      "player_id": 8478446,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(GAW-dihn, GLEHN)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "NYR"
     },
     "8478449": {
       "full_name_en": "Roope Hintz",
@@ -3541,7 +3568,7 @@
       "pronunciation_source": "official_nhl_2025_26_pdf",
       "pronunciation_text": "(KRAH-tee, KAM-ruhn)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "MIN"
+      "team_tri": "VAN"
     },
     "8480078": {
       "full_name_en": "Filip Chytil",
@@ -3578,6 +3605,15 @@
       "pronunciation_text": "(PEE-ohnk, NEEL)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "WPG"
+    },
+    "8480157": {
+      "full_name_en": "Calle Rosen",
+      "match_method": "exact",
+      "player_id": 8480157,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(ROH-zehn, KAL-ee)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "STL"
     },
     "8480185": {
       "full_name_en": "Eetu Luostarinen",
@@ -3641,15 +3677,6 @@
       "pronunciation_text": "(PUHR-bihx, NIHK)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "NSH"
-    },
-    "8480259": {
-      "full_name_en": "Ben Jones",
-      "match_method": "exact",
-      "player_id": 8480259,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(JOHNZ, BEHN)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "CGY"
     },
     "8480280": {
       "full_name_en": "Jeremy Swayman",
@@ -4262,15 +4289,6 @@
       "pronunciation_text": "(AS-pihr-oh, JAWN-ah-thuhn)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "BOS"
-    },
-    "8481237": {
-      "full_name_en": "Kyle MacLean",
-      "match_method": "exact",
-      "player_id": 8481237,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(ma-KLAYN, KIGHL)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "NYI"
     },
     "8481477": {
       "full_name_en": "Nico Sturm",
@@ -4983,6 +5001,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "MIN"
     },
+    "8482123": {
+      "full_name_en": "Drew Commesso",
+      "match_method": "exact",
+      "player_id": 8482123,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(koh-MEH-soh, DROO)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "CHI"
+    },
     "8482124": {
       "full_name_en": "Quinton Byfield",
       "match_method": "exact",
@@ -4991,6 +5018,15 @@
       "pronunciation_text": "(BY-feeld, QUIHN-tuhn)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "LAK"
+    },
+    "8482132": {
+      "full_name_en": "Brett Berard",
+      "match_method": "exact",
+      "player_id": 8482132,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(Buhr-ARD, BREHT)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "MTL"
     },
     "8482137": {
       "full_name_en": "Yaroslav Askarov",
@@ -5045,6 +5081,15 @@
       "pronunciation_text": "(puhr-FEHT-ee, KOHL)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "WPG"
+    },
+    "8482153": {
+      "full_name_en": "Brendan Brisson",
+      "match_method": "exact",
+      "player_id": 8482153,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(brih-SAHN, BREHN-duhn)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "TOR"
     },
     "8482155": {
       "full_name_en": "Alex Laferriere",
@@ -5226,24 +5271,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "NYR"
     },
-    "8482465": {
-      "full_name_en": "Rémi Poirier",
-      "match_method": "exact",
-      "player_id": 8482465,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(P’WAH-ree-ay, REH-mee)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "WSH"
-    },
-    "8482470": {
-      "full_name_en": "Ilya Solovyov",
-      "match_method": "exact",
-      "player_id": 8482470,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(soh-LOH-vee-ahv, IHL-yuh)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "PIT"
-    },
     "8482475": {
       "full_name_en": "Egor Chinakhov",
       "match_method": "unique_surname_alias",
@@ -5306,6 +5333,15 @@
       "pronunciation_text": "(KEH-suhl, MA-thew)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "NYI"
+    },
+    "8482525": {
+      "full_name_en": "Ryan Tverberg",
+      "match_method": "exact",
+      "player_id": 8482525,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(TWUHR-buhrg, RIGH-uhn)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "TOR"
     },
     "8482641": {
       "full_name_en": "Matt Kiersted",
@@ -5658,15 +5694,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CAR"
     },
-    "8482821": {
-      "full_name_en": "Arvid Soderblom",
-      "match_method": "exact",
-      "player_id": 8482821,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(SOH-duhr-blohm, AR-vihd)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "CHI"
-    },
     "8482858": {
       "full_name_en": "Ryker Evans",
       "match_method": "exact",
@@ -5730,6 +5757,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "TBL"
     },
+    "8482942": {
+      "full_name_en": "Alex Gagne",
+      "match_method": "exact",
+      "player_id": 8482942,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(GAG-nee, AL-ehx)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "COL"
+    },
     "8482964": {
       "full_name_en": "Arber Xhekaj",
       "match_method": "exact",
@@ -5747,15 +5783,6 @@
       "pronunciation_text": "(GREEVZ, JEHT)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CBJ"
-    },
-    "8483012": {
-      "full_name_en": "Logan Morrison",
-      "match_method": "exact",
-      "player_id": 8483012,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(MOHR-ih-suhn, LOH-guhn)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "SEA"
     },
     "8483017": {
       "full_name_en": "Frederic Brunet",
@@ -5802,15 +5829,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "DAL"
     },
-    "8483428": {
-      "full_name_en": "Filip Bystedt",
-      "match_method": "exact",
-      "player_id": 8483428,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(BOO-steht, FIHL-ihp)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "SJS"
-    },
     "8483431": {
       "full_name_en": "Logan Cooley",
       "match_method": "exact",
@@ -5828,15 +5846,6 @@
       "pronunciation_text": "(dehl-behl-buh-LOOZ, LOO-kuh)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CBJ"
-    },
-    "8483433": {
-      "full_name_en": "Jack Devine",
-      "match_method": "exact",
-      "player_id": 8483433,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(dih-VIGN, JAK)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "FLA"
     },
     "8483442": {
       "full_name_en": "Jagger Firkus",
@@ -6207,15 +6216,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "NYR"
     },
-    "8483675": {
-      "full_name_en": "Kenny Connors",
-      "match_method": "exact",
-      "player_id": 8483675,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(KAW-nuhrz, KEHN-ee)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "LAK"
-    },
     "8483676": {
       "full_name_en": "Stephen Halliday",
       "match_method": "exact",
@@ -6306,15 +6306,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "MIN"
     },
-    "8483768": {
-      "full_name_en": "Victor Mancini",
-      "match_method": "exact",
-      "player_id": 8483768,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(man-SEE-nee, VIHK-tuhr)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "VAN"
-    },
     "8483771": {
       "full_name_en": "Sandis Vilmanis",
       "match_method": "exact",
@@ -6387,6 +6378,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "PHI"
     },
+    "8484149": {
+      "full_name_en": "Gavin Brindley",
+      "match_method": "exact",
+      "player_id": 8484149,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(BRIHND-lee, GA-vihn)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "COL"
+    },
     "8484153": {
       "full_name_en": "Leo Carlsson",
       "match_method": "exact",
@@ -6432,14 +6432,14 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "MTL"
     },
-    "8484180": {
-      "full_name_en": "Samuel Honzek",
+    "8484177": {
+      "full_name_en": "Lenni Hameenaho",
       "match_method": "exact",
-      "player_id": 8484180,
+      "player_id": 8484177,
       "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(HAHN-zehk, SAM-yew-ehl)",
+      "pronunciation_text": "(ham-een-AH-hoh, LEHN-ee)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "CGY"
+      "team_tri": "NJD"
     },
     "8484186": {
       "full_name_en": "Ryan Leonard",
@@ -6450,15 +6450,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "WSH"
     },
-    "8484188": {
-      "full_name_en": "Theo Lindstein",
-      "match_method": "exact",
-      "player_id": 8484188,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(LIHND-steen, TEE-oh)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "STL"
-    },
     "8484197": {
       "full_name_en": "Oliver Moore",
       "match_method": "exact",
@@ -6468,15 +6459,6 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CHI"
     },
-    "8484201": {
-      "full_name_en": "Nico Myatovic",
-      "match_method": "exact",
-      "player_id": 8484201,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(migh-AT-uh-vihk, NEE-koh)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "ANA"
-    },
     "8484210": {
       "full_name_en": "Gabe Perreault",
       "match_method": "unique_surname_alias",
@@ -6485,6 +6467,15 @@
       "pronunciation_text": "(pair-OH, )",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "NYR"
+    },
+    "8484220": {
+      "full_name_en": "David Reinbacher",
+      "match_method": "exact",
+      "player_id": 8484220,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(RIGHN-bah-kuhr, DAY-vihd)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "MTL"
     },
     "8484221": {
       "full_name_en": "Calum Ritchie",
@@ -6558,6 +6549,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "ANA"
     },
+    "8484268": {
+      "full_name_en": "Nikita Tolopilo",
+      "match_method": "exact",
+      "player_id": 8484268,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(toh-loh-PEE-loh, nih-KEE-tuh)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "VAN"
+    },
     "8484287": {
       "full_name_en": "Cole McWard",
       "match_method": "exact",
@@ -6612,6 +6612,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "PHI"
     },
+    "8484388": {
+      "full_name_en": "Daniil But",
+      "match_method": "exact",
+      "player_id": 8484388,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(BOOT, da-NIHL)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "UTA"
+    },
     "8484403": {
       "full_name_en": "Florian Xhekaj",
       "match_method": "exact",
@@ -6657,6 +6666,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CGY"
     },
+    "8484770": {
+      "full_name_en": "Sam O'Reilly",
+      "match_method": "exact",
+      "player_id": 8484770,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(oh-RIGH-lee, SAM)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "TBL"
+    },
     "8484783": {
       "full_name_en": "Artyom Levshunov",
       "match_method": "exact",
@@ -6665,15 +6683,6 @@
       "pronunciation_text": "(LEHV-shuhn-ahv, AR-tehm)",
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "CHI"
-    },
-    "8484790": {
-      "full_name_en": "Adam Jiricek",
-      "match_method": "exact",
-      "player_id": 8484790,
-      "pronunciation_source": "official_nhl_2025_26_pdf",
-      "pronunciation_text": "(YIHR-ih-chehk, A-duhm)",
-      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
-      "team_tri": "STL"
     },
     "8484794": {
       "full_name_en": "Michael Brandsegg-Nygård",
@@ -6864,6 +6873,15 @@
       "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
       "team_tri": "PIT"
     },
+    "8485468": {
+      "full_name_en": "Trey Taylor",
+      "match_method": "exact",
+      "player_id": 8485468,
+      "pronunciation_source": "official_nhl_2025_26_pdf",
+      "pronunciation_text": "(TAY-luhr, TRAY)",
+      "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
+      "team_tri": "DAL"
+    },
     "8485469": {
       "full_name_en": "Jack Williams",
       "match_method": "exact",
@@ -6910,7 +6928,7 @@
       "team_tri": "SJS"
     }
   },
-  "roster_players": 794,
+  "roster_players": 796,
   "source": "official_nhl_2025_26_pronunciation_guide",
   "source_url": "https://media.nhl.com/site/asset/public/ext/2025-26/2025-26Pronunciations.pdf",
   "unresolved": [
@@ -6992,6 +7010,13 @@
       "team_tri": "NSH"
     },
     {
+      "first_name": "Anton",
+      "full_name_en": "Anton Silaev",
+      "last_name": "Silaev",
+      "player_id": 8484987,
+      "team_tri": "NJD"
+    },
+    {
       "first_name": "Luke",
       "full_name_en": "Luke Glendening",
       "last_name": "Glendening",
@@ -7053,13 +7078,6 @@
       "last_name": "Dube",
       "player_id": 8479346,
       "team_tri": "STL"
-    },
-    {
-      "first_name": "Dominic",
-      "full_name_en": "Dominic James",
-      "last_name": "James",
-      "player_id": 8483752,
-      "team_tri": "TBL"
     },
     {
       "first_name": "Charle-Edouard",
