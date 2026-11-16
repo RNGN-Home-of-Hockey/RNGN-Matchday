@@ -231,7 +231,7 @@
   "teams": {
     "ANA": {
       "matched": 0,
-      "roster": 27,
+      "roster": 26,
       "source_url": "https://www.nhl.com/ducks/team/pronunciation-guide"
     },
     "BOS": {
@@ -246,7 +246,7 @@
     },
     "CAR": {
       "matched": 0,
-      "roster": 24,
+      "roster": 23,
       "source_url": "https://www.nhl.com/hurricanes/team/pronunciation-guide"
     },
     "CBJ": {
@@ -256,7 +256,7 @@
     },
     "CGY": {
       "matched": 0,
-      "roster": 27,
+      "roster": 25,
       "source_url": "https://www.nhl.com/flames/team/pronunciation-guide"
     },
     "CHI": {
@@ -266,12 +266,12 @@
     },
     "COL": {
       "matched": 0,
-      "roster": 22,
+      "roster": 25,
       "source_url": "https://www.nhl.com/avalanche/team/pronunciation-guide"
     },
     "DAL": {
       "matched": 0,
-      "roster": 24,
+      "roster": 26,
       "source_url": "https://www.nhl.com/stars/team/pronunciation-guide"
     },
     "DET": {
@@ -286,27 +286,27 @@
     },
     "FLA": {
       "matched": 0,
-      "roster": 26,
+      "roster": 25,
       "source_url": "https://www.nhl.com/panthers/team/pronunciation-guide"
     },
     "LAK": {
       "matched": 0,
-      "roster": 24,
+      "roster": 23,
       "source_url": "https://www.nhl.com/kings/team/pronunciation-guide"
     },
     "MIN": {
       "matched": 0,
-      "roster": 26,
+      "roster": 24,
       "source_url": "https://www.nhl.com/wild/team/pronunciation-guide"
     },
     "MTL": {
       "matched": 0,
-      "roster": 25,
+      "roster": 27,
       "source_url": "https://www.nhl.com/canadiens/team/pronunciation-guide"
     },
     "NJD": {
       "matched": 0,
-      "roster": 22,
+      "roster": 24,
       "source_url": "https://www.nhl.com/devils/team/pronunciation-guide"
     },
     "NSH": {
@@ -321,7 +321,7 @@
     },
     "NYR": {
       "matched": 25,
-      "roster": 27,
+      "roster": 28,
       "source_url": "https://www.nhl.com/rangers/team/pronunciation-guide"
     },
     "OTT": {
@@ -336,22 +336,22 @@
     },
     "PIT": {
       "matched": 0,
-      "roster": 26,
+      "roster": 25,
       "source_url": "https://www.nhl.com/penguins/team/pronunciation-guide"
     },
     "SEA": {
       "matched": 0,
-      "roster": 28,
+      "roster": 27,
       "source_url": "https://www.nhl.com/kraken/team/pronunciation-guide"
     },
     "SJS": {
       "matched": 0,
-      "roster": 24,
+      "roster": 23,
       "source_url": "https://www.nhl.com/sharks/team/pronunciation-guide"
     },
     "STL": {
       "matched": 0,
-      "roster": 25,
+      "roster": 24,
       "source_url": "https://www.nhl.com/blues/team/pronunciation-guide"
     },
     "TBL": {
@@ -361,17 +361,17 @@
     },
     "TOR": {
       "matched": 0,
-      "roster": 28,
+      "roster": 30,
       "source_url": "https://www.nhl.com/mapleleafs/team/pronunciation-guide"
     },
     "UTA": {
       "matched": 0,
-      "roster": 24,
+      "roster": 25,
       "source_url": "https://www.nhl.com/mammoth/team/pronunciation-guide"
     },
     "VAN": {
       "matched": 0,
-      "roster": 25,
+      "roster": 26,
       "source_url": "https://www.nhl.com/canucks/team/pronunciation-guide"
     },
     "VGK": {
