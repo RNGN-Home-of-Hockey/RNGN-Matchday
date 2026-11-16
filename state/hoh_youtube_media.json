@@ -1,21 +1,29 @@
 {
   "channel": "@homeofhockey-yt",
   "news": {
-    "id": "ll9cjo053tU",
+    "id": "C-j-VBKh6TU",
     "kind": "news",
-    "url": "https://www.youtube.com/watch?v=ll9cjo053tU",
-    "title": "ТКАЧАКИ РАЗГРОМИЛИ КОМАНДУ ОТЦА? | СЕЛЕБРИНИ ПОВТОРИЛ БУЛЛИТ КЕЙНА! – HOME OF HOCKEY NEWS",
-    "thumb": "https://i.ytimg.com/vi/ll9cjo053tU/hq720.jpg",
-    "view_count": 598
+    "url": "https://www.youtube.com/watch?v=C-j-VBKh6TU",
+    "title": "ВАНКУВЕР ПРАЗДНУЕТ УСПЕХ | КАРБЕРИ УПРЕКНУЛ ОВЕЧКИНА И КОМАНДУ – HOME OF HOCKEY NEWS",
+    "thumb": "https://i.ytimg.com/vi/C-j-VBKh6TU/hq720.jpg",
+    "view_count": 958
   },
   "shorts_top10": [
+    {
+      "id": "5Jb4oTqsAng",
+      "kind": "short",
+      "url": "https://www.youtube.com/shorts/5Jb4oTqsAng",
+      "title": "💪 «Миннесота» — самая русская команда НХЛ! #shorts",
+      "thumb": "https://i.ytimg.com/vi/5Jb4oTqsAng/hq720.jpg",
+      "view_count": 1
+    },
     {
       "id": "7HtVk2KtkVA",
       "kind": "short",
       "url": "https://www.youtube.com/shorts/7HtVk2KtkVA",
       "title": "👏 Овечкин поддержал нашу молодёжную сборную! #shorts",
       "thumb": "https://i.ytimg.com/vi/7HtVk2KtkVA/hq720.jpg",
-      "view_count": 37
+      "view_count": 38
     },
     {
       "id": "a37RZwDBRlw",
@@ -31,7 +39,7 @@
       "url": "https://www.youtube.com/shorts/TElR8mgSTxs",
       "title": "😁 Леон Драйзайтль собрал идеального хоккеиста — и вспомнил Коннора Макдэвида! #shorts",
       "thumb": "https://i.ytimg.com/vi/TElR8mgSTxs/hq720.jpg",
-      "view_count": 32
+      "view_count": 39
     },
     {
       "id": "pVG253-FPeY",
@@ -39,7 +47,7 @@
       "url": "https://www.youtube.com/shorts/pVG253-FPeY",
       "title": "😂 Никому не пожелаешь прокомментировать ТАКОЙ матч... #shorts",
       "thumb": "https://i.ytimg.com/vi/pVG253-FPeY/hq720.jpg",
-      "view_count": 16
+      "view_count": 17
     },
     {
       "id": "_V8q2Oy3k_0",
@@ -63,7 +71,7 @@
       "url": "https://www.youtube.com/shorts/aVqaYAIJ0jg",
       "title": "👏 Железный Александр Овечкин! #shorts",
       "thumb": "https://i.ytimg.com/vi/aVqaYAIJ0jg/hq720.jpg",
-      "view_count": 696
+      "view_count": 697
     },
     {
       "id": "RuelHyrkmMo",
@@ -80,15 +88,7 @@
       "title": "😱 Шестёркин забил гол в НХЛ! #shorts",
       "thumb": "https://i.ytimg.com/vi/IumdJ-sTNXA/hq720.jpg",
       "view_count": 14
-    },
-    {
-      "id": "6ILGGX5FSyk",
-      "kind": "short",
-      "url": "https://www.youtube.com/shorts/6ILGGX5FSyk",
-      "title": "🥊 Маккиннон подрался! Вы серьёзно?! #shorts",
-      "thumb": "https://i.ytimg.com/vi/6ILGGX5FSyk/hq720.jpg",
-      "view_count": 29
     }
   ],
-  "updated_at": "2026-11-15T16:52:18.123521+00:00"
+  "updated_at": "2026-11-16T18:24:31.579300+00:00"
 }
