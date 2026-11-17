@@ -1,8 +1,8 @@
 {
   "audio_storage": "/player-audio/<nhl_player_id>.mp3",
-  "eliteprospects_audio_matched": 554,
-  "eliteprospects_profiles_resolved": 769,
-  "matched": 566,
+  "eliteprospects_audio_matched": 555,
+  "eliteprospects_profiles_resolved": 770,
+  "matched": 567,
   "nhl_audio_fallback_matched": 12,
   "players": {
     "8470613": {
@@ -4374,6 +4374,29 @@
       "team_tri": "TOR",
       "upstream_verified": true,
       "weight_kg": 89
+    },
+    "8477573": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8477573.mp3",
+      "birth_country": "GBR",
+      "birth_date": "1994-02-07",
+      "eliteprospects_id": "101430",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Nathan%20Walker",
+      "eliteprospects_slug": "nathan-walker",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/101430/nathan-walker",
+      "first_name": "Nathan",
+      "full_name_en": "Nathan Walker",
+      "height_cm": 175,
+      "last_name": "Walker",
+      "player_id": 8477573,
+      "position_code": "L",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/nathan_walker.mp3",
+      "shoots_catches": "L",
+      "sweater_number": 26,
+      "team_tri": "STL",
+      "upstream_verified": true,
+      "weight_kg": 87
     },
     "8477810": {
       "audio_cached": true,
@@ -17710,6 +17733,29 @@
       "upstream_verified": true,
       "weight_kg": 89
     },
+    "8477573": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8477573.mp3",
+      "birth_country": "GBR",
+      "birth_date": "1994-02-07",
+      "eliteprospects_id": "101430",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Nathan%20Walker",
+      "eliteprospects_slug": "nathan-walker",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/101430/nathan-walker",
+      "first_name": "Nathan",
+      "full_name_en": "Nathan Walker",
+      "height_cm": 175,
+      "last_name": "Walker",
+      "player_id": 8477573,
+      "position_code": "L",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/nathan_walker.mp3",
+      "shoots_catches": "L",
+      "sweater_number": 26,
+      "team_tri": "STL",
+      "upstream_verified": true,
+      "weight_kg": 87
+    },
     "8477810": {
       "audio_cached": true,
       "audio_local_path": "/player-audio/8477810.mp3",
@@ -30874,7 +30920,7 @@
       "weight_kg": 92
     }
   },
-  "roster_players": 796,
+  "roster_players": 797,
   "source": "eliteprospects_player_audio_with_nhl_fallback",
   "source_pattern": "https://files.eliteprospects.com/layout/player_audio/<normalized_player_name>.mp3",
   "unresolved": [
