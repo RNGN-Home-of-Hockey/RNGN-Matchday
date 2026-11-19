@@ -1,8 +1,8 @@
 {
   "audio_storage": "/player-audio/<nhl_player_id>.mp3",
-  "eliteprospects_audio_matched": 555,
-  "eliteprospects_profiles_resolved": 769,
-  "matched": 567,
+  "eliteprospects_audio_matched": 556,
+  "eliteprospects_profiles_resolved": 770,
+  "matched": 568,
   "nhl_audio_fallback_matched": 12,
   "players": {
     "8470613": {
@@ -7939,6 +7939,29 @@
       "team_tri": "MIN",
       "upstream_verified": true,
       "weight_kg": 82
+    },
+    "8480806": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8480806.mp3",
+      "birth_country": "SWE",
+      "birth_date": "1999-11-06",
+      "eliteprospects_id": "265570",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Isac%20Lundestr%C3%B6m",
+      "eliteprospects_slug": "isac-lundestrom",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/265570/isac-lundestrom",
+      "first_name": "Isac",
+      "full_name_en": "Isac Lundeström",
+      "height_cm": 185,
+      "last_name": "Lundeström",
+      "player_id": 8480806,
+      "position_code": "C",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/isac_lundestrom.mp3",
+      "shoots_catches": "L",
+      "sweater_number": 21,
+      "team_tri": "CBJ",
+      "upstream_verified": true,
+      "weight_kg": 90
     },
     "8480807": {
       "audio_cached": true,
@@ -22873,6 +22896,29 @@
       "team_tri": "EDM",
       "weight_kg": 89
     },
+    "8480806": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8480806.mp3",
+      "birth_country": "SWE",
+      "birth_date": "1999-11-06",
+      "eliteprospects_id": "265570",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Isac%20Lundestr%C3%B6m",
+      "eliteprospects_slug": "isac-lundestrom",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/265570/isac-lundestrom",
+      "first_name": "Isac",
+      "full_name_en": "Isac Lundeström",
+      "height_cm": 185,
+      "last_name": "Lundeström",
+      "player_id": 8480806,
+      "position_code": "C",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/isac_lundestrom.mp3",
+      "shoots_catches": "L",
+      "sweater_number": 21,
+      "team_tri": "CBJ",
+      "upstream_verified": true,
+      "weight_kg": 90
+    },
     "8480807": {
       "audio_cached": true,
       "audio_local_path": "/player-audio/8480807.mp3",
@@ -30920,7 +30966,7 @@
       "weight_kg": 92
     }
   },
-  "roster_players": 797,
+  "roster_players": 798,
   "source": "eliteprospects_player_audio_with_nhl_fallback",
   "source_pattern": "https://files.eliteprospects.com/layout/player_audio/<normalized_player_name>.mp3",
   "unresolved": [
