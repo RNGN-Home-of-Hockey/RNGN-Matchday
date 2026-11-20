@@ -1,12 +1,12 @@
 {
   "channel": "@homeofhockey-yt",
   "news": {
-    "id": "StiMK1M9QO4",
+    "id": "c0TKYfKPei0",
     "kind": "news",
-    "url": "https://www.youtube.com/watch?v=StiMK1M9QO4",
-    "title": "ГДЕ ОКАЖЕТСЯ ЕВГЕНИЙ МАЛКИН? | РЕПЕТИЦИЯ ЗИМНЕЙ КЛАССИКИ – HOME OF HOCKEY NEWS",
-    "thumb": "https://i.ytimg.com/vi/StiMK1M9QO4/hq720.jpg",
-    "view_count": 819
+    "url": "https://www.youtube.com/watch?v=c0TKYfKPei0",
+    "title": "МАКДЭВИД ВПЕРВЫЕ БЕЗ ОЧКОВ | ОВЕЧКИН ЛУЧШИЙ АССИСТЕНТ В ИСТОРИИ КЭПИТАЛЗ – HOME OF HOCKEY NEWS",
+    "thumb": "https://i.ytimg.com/vi/c0TKYfKPei0/hq720.jpg",
+    "view_count": 475
   },
   "shorts_top10": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.youtube.com/shorts/5Jb4oTqsAng",
       "title": "💪 «Миннесота» — самая русская команда НХЛ! #shorts",
       "thumb": "https://i.ytimg.com/vi/5Jb4oTqsAng/hq720.jpg",
-      "view_count": 45
+      "view_count": 5
     },
     {
       "id": "7HtVk2KtkVA",
@@ -23,7 +23,7 @@
       "url": "https://www.youtube.com/shorts/7HtVk2KtkVA",
       "title": "👏 Овечкин поддержал нашу молодёжную сборную! #shorts",
       "thumb": "https://i.ytimg.com/vi/7HtVk2KtkVA/hq720.jpg",
-      "view_count": 42
+      "view_count": 43
     },
     {
       "id": "a37RZwDBRlw",
@@ -39,7 +39,7 @@
       "url": "https://www.youtube.com/shorts/TElR8mgSTxs",
       "title": "😁 Леон Драйзайтль собрал идеального хоккеиста — и вспомнил Коннора Макдэвида! #shorts",
       "thumb": "https://i.ytimg.com/vi/TElR8mgSTxs/hq720.jpg",
-      "view_count": 87
+      "view_count": 97
     },
     {
       "id": "pVG253-FPeY",
@@ -90,5 +90,5 @@
       "view_count": 14
     }
   ],
-  "updated_at": "2026-11-19T16:46:19.127595+00:00"
+  "updated_at": "2026-11-20T12:46:48.224095+00:00"
 }
