@@ -1,8 +1,8 @@
 {
   "audio_storage": "/player-audio/<nhl_player_id>.mp3",
-  "eliteprospects_audio_matched": 556,
-  "eliteprospects_profiles_resolved": 772,
-  "matched": 568,
+  "eliteprospects_audio_matched": 557,
+  "eliteprospects_profiles_resolved": 774,
+  "matched": 569,
   "nhl_audio_fallback_matched": 12,
   "players": {
     "8470613": {
@@ -6789,6 +6789,29 @@
       "team_tri": "CBJ",
       "upstream_verified": true,
       "weight_kg": 92
+    },
+    "8479390": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8479390.mp3",
+      "birth_country": "CAN",
+      "birth_date": "1998-02-18",
+      "eliteprospects_id": "245610",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Taylor%20Raddysh",
+      "eliteprospects_slug": "taylor-raddysh",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/245610/taylor-raddysh",
+      "first_name": "Taylor",
+      "full_name_en": "Taylor Raddysh",
+      "height_cm": 188,
+      "last_name": "Raddysh",
+      "player_id": 8479390,
+      "position_code": "R",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/taylor_raddysh.mp3",
+      "shoots_catches": "R",
+      "sweater_number": 14,
+      "team_tri": "NYR",
+      "upstream_verified": true,
+      "weight_kg": 93
     },
     "8479394": {
       "audio_cached": true,
@@ -20927,6 +20950,29 @@
       "team_tri": "WSH",
       "weight_kg": 86
     },
+    "8479390": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8479390.mp3",
+      "birth_country": "CAN",
+      "birth_date": "1998-02-18",
+      "eliteprospects_id": "245610",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Taylor%20Raddysh",
+      "eliteprospects_slug": "taylor-raddysh",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/245610/taylor-raddysh",
+      "first_name": "Taylor",
+      "full_name_en": "Taylor Raddysh",
+      "height_cm": 188,
+      "last_name": "Raddysh",
+      "player_id": 8479390,
+      "position_code": "R",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/taylor_raddysh.mp3",
+      "shoots_catches": "R",
+      "sweater_number": 14,
+      "team_tri": "NYR",
+      "upstream_verified": true,
+      "weight_kg": 93
+    },
     "8479394": {
       "audio_cached": true,
       "audio_local_path": "/player-audio/8479394.mp3",
@@ -26028,6 +26074,27 @@
       "upstream_verified": true,
       "weight_kg": 82
     },
+    "8482141": {
+      "audio_cached": false,
+      "birth_country": "CAN",
+      "birth_date": "2002-03-27",
+      "eliteprospects_id": "201780",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Lukas%20Cormier",
+      "eliteprospects_slug": "lukas-cormier",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/201780/lukas-cormier",
+      "first_name": "Lukas",
+      "full_name_en": "Lukas Cormier",
+      "height_cm": 180,
+      "last_name": "Cormier",
+      "player_id": 8482141,
+      "position_code": "D",
+      "pronunciation_available": false,
+      "reason": "no_verified_audio",
+      "shoots_catches": "L",
+      "sweater_number": 51,
+      "team_tri": "VGK",
+      "weight_kg": 84
+    },
     "8482142": {
       "audio_cached": true,
       "audio_local_path": "/player-audio/8482142.mp3",
@@ -31008,7 +31075,7 @@
       "weight_kg": 92
     }
   },
-  "roster_players": 800,
+  "roster_players": 802,
   "source": "eliteprospects_player_audio_with_nhl_fallback",
   "source_pattern": "https://files.eliteprospects.com/layout/player_audio/<normalized_player_name>.mp3",
   "unresolved": [
@@ -35379,6 +35446,27 @@
       "sweater_number": 49,
       "team_tri": "VGK",
       "weight_kg": 90
+    },
+    {
+      "audio_cached": false,
+      "birth_country": "CAN",
+      "birth_date": "2002-03-27",
+      "eliteprospects_id": "201780",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Lukas%20Cormier",
+      "eliteprospects_slug": "lukas-cormier",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/201780/lukas-cormier",
+      "first_name": "Lukas",
+      "full_name_en": "Lukas Cormier",
+      "height_cm": 180,
+      "last_name": "Cormier",
+      "player_id": 8482141,
+      "position_code": "D",
+      "pronunciation_available": false,
+      "reason": "no_verified_audio",
+      "shoots_catches": "L",
+      "sweater_number": 51,
+      "team_tri": "VGK",
+      "weight_kg": 84
     },
     {
       "audio_cached": false,
