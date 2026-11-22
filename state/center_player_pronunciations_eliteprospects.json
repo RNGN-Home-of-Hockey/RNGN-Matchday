@@ -1,8 +1,8 @@
 {
   "audio_storage": "/player-audio/<nhl_player_id>.mp3",
-  "eliteprospects_audio_matched": 557,
-  "eliteprospects_profiles_resolved": 775,
-  "matched": 569,
+  "eliteprospects_audio_matched": 558,
+  "eliteprospects_profiles_resolved": 777,
+  "matched": 570,
   "nhl_audio_fallback_matched": 12,
   "players": {
     "8470613": {
@@ -11872,6 +11872,29 @@
       "team_tri": "CHI",
       "upstream_verified": true,
       "weight_kg": 91
+    },
+    "8483510": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8483510.mp3",
+      "birth_country": "SWE",
+      "birth_date": "2004-08-31",
+      "eliteprospects_id": "574931",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Elias%20Salomonsson",
+      "eliteprospects_slug": "elias-salomonsson",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/574931/elias-salomonsson",
+      "first_name": "Elias",
+      "full_name_en": "Elias Salomonsson",
+      "height_cm": 183,
+      "last_name": "Salomonsson",
+      "player_id": 8483510,
+      "position_code": "D",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/elias_salomonsson.mp3",
+      "shoots_catches": "R",
+      "sweater_number": 57,
+      "team_tri": "WPG",
+      "upstream_verified": true,
+      "weight_kg": 78
     },
     "8483512": {
       "audio_cached": true,
@@ -28637,6 +28660,29 @@
       "upstream_verified": true,
       "weight_kg": 91
     },
+    "8483510": {
+      "audio_cached": true,
+      "audio_local_path": "/player-audio/8483510.mp3",
+      "birth_country": "SWE",
+      "birth_date": "2004-08-31",
+      "eliteprospects_id": "574931",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Elias%20Salomonsson",
+      "eliteprospects_slug": "elias-salomonsson",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/574931/elias-salomonsson",
+      "first_name": "Elias",
+      "full_name_en": "Elias Salomonsson",
+      "height_cm": 183,
+      "last_name": "Salomonsson",
+      "player_id": 8483510,
+      "position_code": "D",
+      "pronunciation_source": "eliteprospects_player_audio",
+      "pronunciation_url": "https://files.eliteprospects.com/layout/player_audio/elias_salomonsson.mp3",
+      "shoots_catches": "R",
+      "sweater_number": 57,
+      "team_tri": "WPG",
+      "upstream_verified": true,
+      "weight_kg": 78
+    },
     "8483512": {
       "audio_cached": true,
       "audio_local_path": "/player-audio/8483512.mp3",
@@ -30636,6 +30682,27 @@
       "team_tri": "WSH",
       "weight_kg": 104
     },
+    "8485010": {
+      "audio_cached": false,
+      "birth_country": "AUT",
+      "birth_date": "2006-08-09",
+      "eliteprospects_id": "795409",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Gregor%20Biber",
+      "eliteprospects_slug": "gregor-biber",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/795409/gregor-biber",
+      "first_name": "Gregor",
+      "full_name_en": "Gregor Biber",
+      "height_cm": 190,
+      "last_name": "Biber",
+      "player_id": 8485010,
+      "position_code": "D",
+      "pronunciation_available": false,
+      "reason": "no_verified_audio",
+      "shoots_catches": "L",
+      "sweater_number": 94,
+      "team_tri": "UTA",
+      "weight_kg": 85
+    },
     "8485366": {
       "audio_cached": false,
       "birth_country": "CAN",
@@ -31096,7 +31163,7 @@
       "weight_kg": 92
     }
   },
-  "roster_players": 803,
+  "roster_players": 805,
   "source": "eliteprospects_player_audio_with_nhl_fallback",
   "source_pattern": "https://files.eliteprospects.com/layout/player_audio/<normalized_player_name>.mp3",
   "unresolved": [
@@ -35215,6 +35282,27 @@
       "sweater_number": 62,
       "team_tri": "UTA",
       "weight_kg": 83
+    },
+    {
+      "audio_cached": false,
+      "birth_country": "AUT",
+      "birth_date": "2006-08-09",
+      "eliteprospects_id": "795409",
+      "eliteprospects_search_url": "https://autocomplete.eliteprospects.com/players?q=Gregor%20Biber",
+      "eliteprospects_slug": "gregor-biber",
+      "eliteprospects_url": "https://www.eliteprospects.com/player/795409/gregor-biber",
+      "first_name": "Gregor",
+      "full_name_en": "Gregor Biber",
+      "height_cm": 190,
+      "last_name": "Biber",
+      "player_id": 8485010,
+      "position_code": "D",
+      "pronunciation_available": false,
+      "reason": "no_verified_audio",
+      "shoots_catches": "L",
+      "sweater_number": 94,
+      "team_tri": "UTA",
+      "weight_kg": 85
     },
     {
       "audio_cached": false,
