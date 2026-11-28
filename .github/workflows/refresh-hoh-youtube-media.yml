@@ -3,6 +3,7 @@ name: Refresh HOH YouTube media
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'tools/build_hoh_youtube_media.py'
       - '.github/workflows/refresh-hoh-youtube-media.yml'
@@ -41,6 +42,7 @@ jobs:
           print({'shorts':len(shorts),'news':news.get('id'),'title':news.get('title')})
           PY
       - name: Commit refreshed media cache
+        if: github.ref == 'refs/heads/main'
         id: commit
         run: |
           if [ -z "$(git status --porcelain -- state/hoh_youtube_media.json)" ]; then
